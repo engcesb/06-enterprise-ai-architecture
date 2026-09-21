@@ -1,18 +1,18 @@
 # 06-enterprise-ai-architecture
 ### *Arquiteturas corporativas completas, microserviços, integração DevOps/CI-CD e sistemas avançados com IA.*
 ---
-Arquitetura Corporativa & Sistemas Escaláveis
+*Arquitetura Corporativa & Sistemas Escaláveis*
 
-**Projetos de desenvolvimento:** Sistemas avançados integrando Inteligência Artificial generativa e preditiva em grande escala.
+  **Projetos de desenvolvimento:** Sistemas avançados integrando Inteligência Artificial generativa e preditiva em grande escala.
 
- **Estudos de Engenharia de Software:**
+  **Estudos de Engenharia de Software:**
 
-* Algoritmos e estruturas escaláveis
+    *  Algoritmos e estruturas escaláveis
 
-* Arquitetura de software (microserviços e alta disponibilidade)
+    *  Arquitetura de software (microserviços e alta disponibilidade)
 
-* Banco de dados relacionais e não-relacionais
+    *  Banco de dados relacionais e não-relacionais
 
-* Práticas avançadas de DevOps, integração contínua (CI/CD) e testes
+    *  Práticas avançadas de DevOps, integração contínua (CI/CD) e testes
 
- **Laboratórios:** Montagem de ecossistemas corporativos completos, resilientes e orientados a alto desempenho.
+   **Laboratórios:** Montagem de ecossistemas corporativos completos, resilientes e orientados a alto desempenho.
