@@ -7,12 +7,12 @@ Arquitetura Corporativa & Sistemas Escaláveis
 
  **Estudos de Engenharia de Software:**
 
- Algoritmos e estruturas escaláveis
+* Algoritmos e estruturas escaláveis
 
- Arquitetura de software (microserviços e alta disponibilidade)
+* Arquitetura de software (microserviços e alta disponibilidade)
 
- Banco de dados relacionais e não-relacionais
+* Banco de dados relacionais e não-relacionais
 
- Práticas avançadas de DevOps, integração contínua (CI/CD) e testes
+* Práticas avançadas de DevOps, integração contínua (CI/CD) e testes
 
  **Laboratórios:** Montagem de ecossistemas corporativos completos, resilientes e orientados a alto desempenho.
